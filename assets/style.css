@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  color: rgb(66, 26, 26);
+  margin-bottom: 50px;
+}
+h2 {
+  color: rgb(39, 39, 85);
+}
+#quote {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px 5px 20px 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(25, 65, 65);
+  background: linear-gradient(118deg, rgb(222, 238, 253), rgb(16, 76, 136));
+}
